@@ -1,4 +1,4 @@
-# Faang
+# Faang prep material
 
 ### Big O notation
 - Time complexities
