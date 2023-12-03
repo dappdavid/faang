@@ -94,4 +94,4 @@
 3. Behavioral questions
 4. Scenario based questions
 5. Amazon leadership principles
-6. Googleyness
+6. Google behavioral questions
