@@ -1,38 +1,39 @@
 # Summary of Algorithms
 
 ## Sort
-- Bubble sort
-- Selection sort
-- Insertion sort
-- Bucket sort
-- merge sort
-- Quick sort
-- Heap sort
+1. Bubble sort
+2. Selection sort
+3. Insertion sort
+4. Bucket sort
+5. Merge sort
+6. Quick sort
+7. Heap sort
 
 ## Search
-- Linear search
-- Binary search
+1. Linear search
+2. Binary search
 
 ## Graph algorithms
-- Breadth first search
-- Depth first search
-- Topological sort
-- Djikstra's algorithm
-- Bellman-ford algorithm
-- Floyd warshall algorithm
-- Minimum spanning tree
-- Kruksal's algorithm
+1. Breadth first search
+2. Depth first search
+3. Topological sort
+4. Djikstra's algorithm
+5. Bellman-ford algorithm
+6. Floyd warshall algorithm
+7. Minimum spanning tree
+8. Kruksal's algorithm
 
 ## Greedy algorithms
-- Activity selection problem
-- Coin change problem
+1. Activity selection problem
+2. Coin change problem
 
 ## Divide and conquer algorithms
-- Number factor problem
-- House robber problem
+1. Number factor problem
+2. House robber problem
 
 ## Dynamic programming
-- Optimal substructure sub-problem
-- Overlapping sub-problem
-- Top-down memoization
-- Bottom-up tabulation
+1. Optimal substructure sub-problem
+2. Overlapping sub-problem
+3. Top-down memoization
+4. Bottom-up tabulation
+5. 
